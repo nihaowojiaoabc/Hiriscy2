@@ -1,2 +1,21 @@
+// *********************************************************************************
+// Project Name : OSXXXX
+// Author       : Core_kingdom
+// Website      : https://blog.csdn.net/weixin_40377195
+// Create Time  : 2025-10-18
+// File Name    : .v
+// Module Name  :
+// Called By    :
+// Abstract     :
+//
+// 
+// *********************************************************************************
+// Modification History:
+// Date         By              Version                 Change Description
+// -----------------------------------------------------------------------
+// 2025-10-18    Macro           1.0                     Original
+//  
+// *********************************************************************************
+
 yuanwenjian
 xiugaitest
